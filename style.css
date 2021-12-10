@@ -1,0 +1,41 @@
+ body{
+    margin:0;
+    height:100vh;
+    display:grid;
+  
+}
+
+    
+h1{
+   
+    background: linear-gradient(blueviolet, white);
+    position:relative;
+    left:10vh;
+    margin:0 0;
+  }
+  
+  h2{
+      
+      background-color: maroon;
+      width: 300px;
+  }
+
+  h3{
+      background-color: blueviolet;
+      
+  }
+
+
+img{
+    width: 300px;
+    height: 300px;
+    position:static;
+    left:100vh;
+}
+
+header{
+    color: white;
+    background-color: black;
+    height: auto;
+    
+}
